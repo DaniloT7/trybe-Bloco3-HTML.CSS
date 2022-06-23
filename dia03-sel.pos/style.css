@@ -53,9 +53,35 @@ h1{
     max-width: 660px;
 }
 #header-content p{
-    magin: 2em 0
+    margin: 2em 0
 }
 #header-text{
     width: 80%;
+}
+#market{
+    padding: 6em 30px;
+    text-align: center;
+}
+#market-text{
+    width: 60%;
+    margin: 0 auto;   
+}
+#market-test p{
+    margin: 2em;
+}
+#testimonials{
+    padding: 30px;
+
+}
+.student-testimonial{
+    width: 30%;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    vertical-align: top;
+}
+.student-testimonial p{
+    margin: 1em;
+
 }
 
