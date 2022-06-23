@@ -45,7 +45,7 @@ h1{
 #header{
     background-image: url(https://assets.website-files.com/5d4c18a28620ae5d4f33af94/5d4c18a28620ae56f733b01a_hero-image.jpg);
     background-size: cover;
-    background-position: 50%-130%;
+    background-position: 50%-150%;
     padding: 60px 30px 40px;
 }
 #header-content{
@@ -84,4 +84,26 @@ h1{
     margin: 1em;
 
 }
+#learning{
+    background-color: rgb(231, 230, 230);
+    padding: 6em 30px;
 
+}
+#learning-left{
+    float: left;
+    max-width: 45%;
+}
+#learning-right{
+    float: right;
+}
+#footer{
+    clear: both;
+    text-align: center;
+    margin: ;
+}
+#footer p{
+    margin: 2em;
+}
+li{
+    list-style: square;
+}
