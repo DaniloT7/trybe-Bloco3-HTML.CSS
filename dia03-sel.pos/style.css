@@ -1,0 +1,38 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+p, li{
+    font-size: 16px;
+    color: #475550;
+}
+h1{
+    font-size: 45px;
+    line-height: 55px;
+    font-weight: 600;
+    letter-spacing: -1px;
+}
+.section-title{
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: 600;
+    text-align: center;
+}
+.testimonial-title{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.picture{
+    border-radius: 50%;
+}
+.trybe-green{
+    color: rgb(35, 161, 52);
+} 
+.button{
+    background-color: #11a36a;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 700;
+}
